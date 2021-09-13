@@ -1,0 +1,97 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day1.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day2.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day3.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day4.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day5.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day6.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day7.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day8.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day9.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day10.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day11.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day12.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day13.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day14.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day15.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day16.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day17.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day18.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day19.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day20.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day21.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day22.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day23.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day24.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/day25.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day5.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day6.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day7.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day8.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day9.hs"
+      component: "advent2015:exe:advent2015"
+
+    - path: "app/input/day12.hs"
+      component: "advent2015:exe:advent2015"
